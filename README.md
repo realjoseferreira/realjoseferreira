@@ -12,5 +12,5 @@ I'm José Ferreira, a 22-year-old developer from Brazil, passionate about techno
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realjoseferreira&layout=compact&theme=radical)
 
-> 💡 💡 Always learning, always creating.
+> 💡 Always learning, always creating.
 Technology isn’t just code — it’s impact.
