@@ -1,15 +1,17 @@
 # 🧑🏻‍💻 José Ferreira
 
-What's up guys! Me chamo José Ferreira, tenho 22 anos e sou apaixonado por tecnologia 🚀  
+Hey there! 👋
+I'm José Ferreira, a 22-year-old developer from Brazil, passionate about technology and innovation 🚀
 
-🎓 Atualmente cursando **Engenharia da Computação** e explorando o mundo do desenvolvimento de software.  
+🎓 Currently pursuing a Bachelor’s degree in Computer Engineering, exploring the world of software development.
 
-💻 Viajo por diversas linguagens e stacks, mas meu foco principal está em **softwares para desktop** e **criação de websites completos**, com **frontend** e **backend** de forma totalmente profissional.  
+💻 I work across multiple languages and stacks, but my main focus is on desktop software and building complete websites — delivering both frontend and backend in a professional way.
 
-⚡ Tenho entusiasmo por resolver problemas complexos e transformar ideias em produtos funcionais.    
+⚡ I’m passionate about solving complex problems and turning ideas into functional products.  
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realjoseferreira&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realjoseferreira&layout=compact&theme=radical)
 
-> 💡 Sempre aprendendo, sempre criando. Tecnologia não é só código, é impacto.
+> 💡 💡 Always learning, always creating.
+Technology isn’t just code — it’s impact.
