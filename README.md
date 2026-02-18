@@ -3,7 +3,7 @@
 Hey there! 👋
 I'm José Ferreira, a 22-year-old developer from Brazil, passionate about technology and innovation 🚀
 
-🎓 Currently pursuing a Bachelor’s degree in Computer Engineering, exploring the world of software development.
+🎓 Currently pursuing a Bachelor’s degree in Software Engineering, exploring the world of software development.
 
 💻 I work across multiple languages and stacks, but my main focus is on desktop software and building complete websites, delivering both frontend and backend in a professional way.
 
